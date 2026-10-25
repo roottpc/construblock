@@ -1,0 +1,14 @@
+{
+  "name": "Grupo Construblock",
+  "short_name": "Construblock",
+  "description": "Ventas, entregas, inventario y producción de la bloquera y ferretería",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f2ef",
+  "theme_color": "#26292e",
+  "lang": "es-MX",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
