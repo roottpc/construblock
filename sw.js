@@ -1,5 +1,5 @@
 // Guarda la app en el teléfono para que abra sin internet
-const CACHE='construblock-v3';
+const CACHE='construblock-v4';
 const FILES=['./','./index.html','./manifest.json','./icon.svg',
   'https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js',
   ];
